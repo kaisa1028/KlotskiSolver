@@ -1,0 +1,6 @@
+decorator==4.4.2
+networkx==2.5
+numpy==1.19.4
+pygame==2.0.0
+pygame-gui==0.5.7
+six==1.15.0
